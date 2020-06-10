@@ -1,0 +1,9 @@
+<?PHP
+
+$categorias = [];
+
+$categorias[] = 'infantil';
+$categorias[] = 'adolecente';
+$categorias[] = 'adulto';
+print_r(categoias);
+?>

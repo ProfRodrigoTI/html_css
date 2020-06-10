@@ -1,0 +1,12 @@
+1-TAG TITLE
+2-Bloco de Notas
+3-Salvar com a extensao .html e escolher a opçao 
+todos os arquivos.
+4-H1-Exibir o Titulo da pagina.
+5-<html>
+<head>
+<title></title>
+</head>
+<BODY>
+</BODY>
+</html>
